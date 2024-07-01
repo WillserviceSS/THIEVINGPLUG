@@ -1,0 +1,2 @@
+# THIEVINGPLUG
+Test plugin
